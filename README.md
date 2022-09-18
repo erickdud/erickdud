@@ -2,10 +2,10 @@
 <br>
 ##  Opa Sou Erick Eduardo🖖
 
--👨‍💻Estudando front-end e back-end
+-👨‍💻Estudo front-end e back-end
 -💻Aprendendo TypeScript
 -👨‍💻Desenvolvendo em Javascript
-
+##
 
 <div>
   <a href="https://github.com/erickdud">
