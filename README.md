@@ -2,9 +2,8 @@
 <br>
 ##  Opa Sou Erick Eduardo🖖
 
--👨‍💻Estudo Desenvolvimento Full-Stack
--💻Aprendendo Python
--👨‍💻Desenvolvendo em Javascript e Node.JS
+-👨‍💻Desenvolvedor Junior
+-👨‍💻Principais Linguagens:Javascript, CSS, Python, Django, Java e Node.JS
 ##
 <div>
   <a href="https://github.com/erickdud">
