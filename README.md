@@ -2,8 +2,8 @@
 <br>
 ##  Opa Sou Erick Eduardo🖖
 
--👨‍💻Desenvolvedor Junior
--👨‍💻Principais Linguagens:Javascript, CSS, Python, Django, Java e Node.JS
+-👨‍💻Desenvolvedor Web
+-👨‍💻Principais Linguagens:Javascript, CSS,Tailwind,React.js, Nextjs,typescript, Python, Django, Java e Spring Boot,Node.JS
 ##
 <div>
   <a href="https://github.com/erickdud">
