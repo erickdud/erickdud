@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <br>
-##  Opa Sou Erick Eduardo🖖
+ Opa Sou Erick Eduardo🖖
 
--👨‍💻Desenvolvedor Web
--👨‍💻Principais Linguagens:Javascript, CSS,Tailwind,React.js, Nextjs,typescript, Python, Django, Java e Spring Boot,Node.JS
+-👨‍💻Desenvolvedor de Software
+##
+-👨‍💻Frontend:React, Next.js, Tailwindcss, Css e Html  
+-👨‍💻Backend:Java e Spring boot, Node.Js, Python e Django, TypeScript
 ##
 <div>
   <a href="https://github.com/erickdud">
